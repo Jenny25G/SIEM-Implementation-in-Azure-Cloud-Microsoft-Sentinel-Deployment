@@ -103,10 +103,10 @@ Screenshots from the Sentinel deployment and dashboard views are available in th
 ![](assets/screenshots/img103.jpg)
 ![](assets/screenshots/img107.jpg)
 ![](assets/screenshots/img110.jpg)
-![](assets/screenshots/img113.jpg)
 ![](assets/screenshots/img116.jpg)
 ![](assets/screenshots/img125.jpg)
 ![](assets/screenshots/img128.jpg)
+![](assets/screenshots/img113.jpg)
 
 ---
 
