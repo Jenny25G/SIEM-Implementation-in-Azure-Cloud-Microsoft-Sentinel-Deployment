@@ -90,7 +90,7 @@ Screenshots from the Sentinel deployment and dashboard views are available in th
 * **Incident Investigation View**
 * **Workbook Visualization and Alerts**
 
-```markdown
+
 ![](assets/screenshots/img45.jpg)
 ![](assets/screenshots/img21.jpg)
 ![](assets/screenshots/img25.jpg)
@@ -107,9 +107,6 @@ Screenshots from the Sentinel deployment and dashboard views are available in th
 ![](assets/screenshots/img116.jpg)
 ![](assets/screenshots/img125.jpg)
 ![](assets/screenshots/img128.jpg)
-![](assets/screenshots/img116.jpg)
-
-```
 
 ---
 
